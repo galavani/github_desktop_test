@@ -2,5 +2,10 @@ Hi…
 This is test
 
 Mehdi changed
+<<<<<<< HEAD
 Master chang
 
+=======
+
+Mehdi want push into github
+>>>>>>> mehdi
